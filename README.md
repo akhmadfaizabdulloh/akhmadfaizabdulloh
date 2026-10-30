@@ -16,8 +16,9 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/akhmadfaizabdulloh/akhmadfaizabdulloh/output/github-contribution-grid-snake.svg">
 </picture>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.shion.dev/api?username=akhmadfaizabdulloh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="akhmadfaizabdulloh github stats" /></a> | <a href=""><img align="center" src="https://streak-stats.demolab.com/?user=akhmadfaizabdulloh&theme=github_dark&hide_border=false" /></a> |
-| <img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhmadfaizabdulloh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/> |
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.shion.dev/api?username=akhmadfaizabdulloh&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="akhmadfaizabdulloh github stats" /></a> | <a href=""><img align="center" src="https://streak-stats.demolab.com/?user=akhmadfaizabdulloh&theme=github_dark&hide_border=false" /></a>
+
+<img align="center" src="https://github-readme-stats.shion.dev/api/top-langs/?username=akhmadfaizabdulloh&theme=github_dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
 
 ## **📊 GitHub Stats**
 ![](https://github-readme-stats.shion.dev/api?username=akhmadfaizabdulloh&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
